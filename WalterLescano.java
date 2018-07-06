@@ -17,9 +17,7 @@ public class WalterLescano {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        /**
-         * Ejercicio git hub
-         */
+        System.out.println("Hola");
     }
     
 }
